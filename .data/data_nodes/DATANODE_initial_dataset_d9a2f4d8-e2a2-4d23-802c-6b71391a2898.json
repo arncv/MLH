@@ -1,0 +1,22 @@
+{
+"id": "DATANODE_initial_dataset_d9a2f4d8-e2a2-4d23-802c-6b71391a2898",
+"config_id": "initial_dataset",
+"scope": "<Scope.GLOBAL: 4>",
+"storage_type": "csv",
+"name": null,
+"owner_id": null,
+"parent_ids": [
+"TASK_filter_genre_cdb42da8-af6a-4cae-8fc5-5f2f0e498fbf"
+],
+"last_edit_date": null,
+"edits": [],
+"version": "00d7682f-7fce-48c4-a927-82910a05c1d4",
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"data_node_properties": {
+"path": "data.csv",
+"has_header": true,
+"exposed_type": "pandas"
+}
+}

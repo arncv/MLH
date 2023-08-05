@@ -1,0 +1,33 @@
+{
+"id": "DATANODE_selected_genre_node_60fe4aaa-4522-41fb-bd29-d13d09c50f10",
+"config_id": "selected_genre_node",
+"scope": "<Scope.GLOBAL: 4>",
+"storage_type": "pickle",
+"name": null,
+"owner_id": null,
+"parent_ids": [
+"TASK_filter_genre_cdb42da8-af6a-4cae-8fc5-5f2f0e498fbf"
+],
+"last_edit_date": "2023-08-05T18:10:58.708891",
+"edits": [
+{
+"timestamp": {
+"__type__": "Datetime",
+"__value__": "2023-08-05T18:10:51.438972"
+}
+},
+{
+"timestamp": {
+"__type__": "Datetime",
+"__value__": "2023-08-05T18:10:58.708891"
+}
+}
+],
+"version": "00d7682f-7fce-48c4-a927-82910a05c1d4",
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"data_node_properties": {
+"is_generated": true
+}
+}

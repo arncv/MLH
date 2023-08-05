@@ -1,0 +1,14 @@
+{
+"id": "PIPELINE_pipeline_27b75823-1f8f-4a69-bd2d-ecff40d3faa0",
+"owner_id": null,
+"parent_ids": [
+"SCENARIO_scenario_5735c225-33c4-4485-927c-e1d4a0e3a060"
+],
+"config_id": "pipeline",
+"properties": {},
+"tasks": [
+"TASK_filter_genre_cdb42da8-af6a-4cae-8fc5-5f2f0e498fbf"
+],
+"subscribers": [],
+"version": "00d7682f-7fce-48c4-a927-82910a05c1d4"
+}

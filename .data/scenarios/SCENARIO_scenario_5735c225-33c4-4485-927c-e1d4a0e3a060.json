@@ -1,0 +1,14 @@
+{
+"id": "SCENARIO_scenario_5735c225-33c4-4485-927c-e1d4a0e3a060",
+"config_id": "scenario",
+"pipelines": [
+"PIPELINE_pipeline_27b75823-1f8f-4a69-bd2d-ecff40d3faa0"
+],
+"properties": {},
+"creation_date": "2023-08-05T18:10:51.467023",
+"primary_scenario": false,
+"subscribers": [],
+"tags": [],
+"version": "00d7682f-7fce-48c4-a927-82910a05c1d4",
+"cycle": null
+}
